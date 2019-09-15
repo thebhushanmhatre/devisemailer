@@ -55,3 +55,12 @@ gem 'font-awesome-sass'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
 gem 'simple_form', '~> 3.5'
+
+
+
+
+
+group :production do
+	gem 'rails_12factor', '~> 0.0.3'
+	gem 'pg', '~> 1.1', '>= 1.1.4'
+end
