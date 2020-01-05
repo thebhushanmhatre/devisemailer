@@ -55,7 +55,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'font-awesome-sass'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
-gem 'simple_form', '~> 3.5'
+gem 'simple_form', '~> 5.0'
 
 
 group :production do
